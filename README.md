@@ -1,0 +1,1 @@
+# js-arch-lint
